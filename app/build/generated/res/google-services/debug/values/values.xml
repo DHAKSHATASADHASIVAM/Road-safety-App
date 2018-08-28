@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="default_web_client_id" translatable="false">190711987542-pjo4kvk08ta45ii9lhcpmegr35s068vu.apps.googleusercontent.com</string>
+    <string name="firebase_database_url" translatable="false">https://brakingbehaviour.firebaseio.com</string>
+    <string name="gcm_defaultSenderId" translatable="false">190711987542</string>
+    <string name="google_api_key" translatable="false">AIzaSyC2BIB1WJl6sC-CQ-Md7l_xzqi1vjphxGo</string>
+    <string name="google_app_id" translatable="false">1:190711987542:android:0b1765fe9a4492fb</string>
+    <string name="google_crash_reporting_api_key" translatable="false">AIzaSyC2BIB1WJl6sC-CQ-Md7l_xzqi1vjphxGo</string>
+    <string name="google_storage_bucket" translatable="false">brakingbehaviour.appspot.com</string>
+    <string name="project_id" translatable="false">brakingbehaviour</string>
+</resources>
